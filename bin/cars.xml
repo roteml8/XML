@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+  <car>
+    <manufacturer>Tesla</manufacturer>
+    <model>XR</model>
+    <year>2022</year>
+    <licensePlate>
+      <number>123456</number>
+      <color>Purple</color>
+    </licensePlate>
+  </car>
+  <car>
+    <manufacturer>Toyota</manufacturer>
+    <model>S132</model>
+    <year>2000</year>
+    <licensePlate>
+      <number>987654</number>
+      <color>Red</color>
+    </licensePlate>
+  </car>
+</cars>

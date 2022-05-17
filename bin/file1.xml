@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<class>
+	<student id="1">
+		<gender>Female</gender>
+		<firstName>Rotem</firstName>
+		<lastName>Levi</lastName>
+		<notes>
+			<note id="1">
+				<from>Rotem</from>
+				<to>Matan</to>
+				<message>Hello</message>
+			</note>
+		</notes>
+	</student>
+
+	<student id="2">
+		<gender>Male</gender>
+		<firstName>Matan</firstName>
+		<lastName>Levi</lastName>>
+	</student>
+
+	<student id="3">
+		<gender>Male</gender>
+		<firstName>Yaron</firstName>
+		<lastName>Shender</lastName>
+		<notes>
+			<note id="2">
+				<from>Yaron</from>
+				<to>Rotem</to>
+				<message>Hello</message>
+			</note>
+			<note id="3">
+				<from>Yaron</from>
+				<to>Matan</to>
+				<message>Hello</message>
+			</note>
+		</notes>
+	</student>
+</class>
